@@ -179,8 +179,8 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Muhammad Abdullah**  
-Software Engineering Graduate | MERN Stack Developer
+**satish jadav**  
+Software Engineering Graduate | FullStack Developer
 
 ---
 
